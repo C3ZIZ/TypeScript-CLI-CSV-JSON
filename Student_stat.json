@@ -1,0 +1,47 @@
+{
+  "rowsProcessed": 10000,
+  "columns": {
+    "Hours Studied": {
+      "countNumbers": 10000,
+      "invalidCells": 0,
+      "min": 1,
+      "max": 9,
+      "mean": 4.9929
+    },
+    "Previous Scores": {
+      "countNumbers": 10000,
+      "invalidCells": 0,
+      "min": 40,
+      "max": 99,
+      "mean": 69.4457
+    },
+    "Extracurricular Activities": {
+      "countNumbers": 0,
+      "invalidCells": 10000,
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "Sleep Hours": {
+      "countNumbers": 10000,
+      "invalidCells": 0,
+      "min": 4,
+      "max": 9,
+      "mean": 6.5306
+    },
+    "Sample Question Papers Practiced": {
+      "countNumbers": 10000,
+      "invalidCells": 0,
+      "min": 0,
+      "max": 9,
+      "mean": 4.5833
+    },
+    "Performance Index": {
+      "countNumbers": 10000,
+      "invalidCells": 0,
+      "min": 10,
+      "max": 100,
+      "mean": 55.2248
+    }
+  }
+}

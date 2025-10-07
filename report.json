@@ -1,0 +1,33 @@
+{
+  "rowsProcessed": 4,
+  "columns": {
+    "city": {
+      "countNumbers": 0,
+      "invalidCells": 4,
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "year": {
+      "countNumbers": 4,
+      "invalidCells": 0,
+      "min": 2023,
+      "max": 2024,
+      "mean": 2023.25
+    },
+    "population": {
+      "countNumbers": 4,
+      "invalidCells": 0,
+      "min": 1263000,
+      "max": 7900000,
+      "mean": 5228750
+    },
+    "avg_income": {
+      "countNumbers": 4,
+      "invalidCells": 0,
+      "min": 61000,
+      "max": 70000,
+      "mean": 65250
+    }
+  }
+}
